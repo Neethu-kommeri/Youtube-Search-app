@@ -1,0 +1,21 @@
+iframe{
+    
+    width: 100%;
+    height: 500px;
+    border-radius: 15px; /* Adds rounded corners */
+    border: none;
+    margin-top: 30px;
+ 
+}
+.ui-embed{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100px;
+    text-align: center;
+    overflow: hidden;
+}
+.segment, .header{
+    margin-left: 100px;
+}

@@ -1,0 +1,31 @@
+.search-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+ 
+}
+.video_search{
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 100px;
+}
+.search{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid;
+    border-radius: 5px;
+    outline: none;
+    box-shadow: 0 0 5px rgba(52, 152, 219, 0.7); 
+    color: gray;
+    background-color: #fff;
+}
+h2{
+    text-align: center;
+}
+img{
+    width:200px;
+    height: 100px;
+    justify-content: center;
+}
